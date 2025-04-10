@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/7ec979e7-4a9a-4166-8934-31fb757620d0)
 
 ## Sobre o Projeto
-Projeto para análisar dados de uma tabela no excel e realizar uma dashboard interativa!
+Projeto para analisar dados de uma tabela comercial no excel e realizar uma dashboard interativa!
 
 ## Etapas do Projeto
 1. Download da tabela no excel, análise crítica das colunas e tratamento dos dados
@@ -40,8 +40,11 @@ Depois (Power BI)
 - Criação dos gráficos do projeto
 - Integração de uma segunda tabela com modelagem
 
+![Image](https://github.com/user-attachments/assets/18a86eac-90dc-4d26-af28-bbfb4bfb6531)
 
+![Image](https://github.com/user-attachments/assets/acfd417d-aaa0-4e62-9451-b9ab1373ded5) 
 
 ### 4. Design para a dashboard
+- Integração do design de fundo, feito no power point (também pode ser no canva)
 
 ![Image](https://github.com/user-attachments/assets/7ec979e7-4a9a-4166-8934-31fb757620d0)
