@@ -11,4 +11,19 @@ Projeto para análisar dados de uma tabela no excel e realizar uma dashboard int
 
 ## Processo construtivo
 ### 1. Tratamento dos dados
-![Image](https://github.com/user-attachments/assets/e54b9f4c-f9e4-414c-b543-08a8c790f0fd)
+
+Antes (Excel)
+
+![Image](https://github.com/user-attachments/assets/ccdcfd49-8894-47a0-9870-1991ebec8a39)
+
+#
+
+Depois (Power BI)
+
+![Image](https://github.com/user-attachments/assets/6a9d4d95-0528-42ee-b67a-17864705929b)
+
+
+##
+
+### 4. Design para a dashboard
+
