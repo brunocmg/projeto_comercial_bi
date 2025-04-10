@@ -38,7 +38,7 @@ Depois (Power BI)
 
 ### 3. Criação de gráficos
 - Criação dos gráficos do projeto
-- Integração de uma segunda tabela com modelagem
+- Integração de uma segunda tabela com modelagem (para reconhecer o código da loja e repassar com o seu nome)
 
 ![Image](https://github.com/user-attachments/assets/18a86eac-90dc-4d26-af28-bbfb4bfb6531)
 
