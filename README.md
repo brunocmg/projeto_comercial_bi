@@ -11,3 +11,4 @@ Projeto para análisar dados de uma tabela no excel e realizar uma dashboard int
 
 ## Processo construtivo
 ### 1. Tratamento dos dados
+![Image](https://github.com/user-attachments/assets/e54b9f4c-f9e4-414c-b543-08a8c790f0fd)
